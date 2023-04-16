@@ -1,0 +1,179 @@
+chat content:
+
+    chao hoi:
+        question:
+        - "Hello"
+        - "Hi"
+        - "Xin chào"
+        - "Chào"
+        - "Chào bạn"
+        - "Hi, Chào cậu!"
+        answer:
+        - "Xin chào tôi có thể giúp gì cho bạn?"
+        - "Xin chào!"
+        - "Chào bạn, bạn cần giúp gì nào?"
+    
+    nganh dao tao:
+        question:
+        - "Trường Đại học Đông Á có những ngành đào tạo gì?"
+        - "Ngành đào tạo"
+        answer:
+        - "Trường Đại học Đông Á hiện có 12 ngành đào tạo chính, bao gồm Kinh tế, Quản trị kinh doanh, Kế toán, Luật, Ngôn ngữ Anh, Công nghệ thông tin, Cơ khí, Điện tử - Viễn thông, Xây dựng, Kiến trúc, Nghệ thuật và Thiết kế đồ họa."
+
+    diem chuan:
+        question:
+        - "Trường Đại học Đông Á có yêu cầu gì về điểm chuẩn khi tuyển sinh?"
+        - "Điểm chuẩn"
+        answer:
+        - "Điểm chuẩn tuyển sinh của trường Đại học Đông Á thường dao động từ 18 đến 24 điểm tùy vào từng ngành và khối thi đăng ký. Tuy nhiên, đối với các ngành có nhu cầu tuyển sinh cao hoặc được đánh giá cao về chất lượng đào tạo, điểm chuẩn có thể sẽ cao hơn."
+
+    ho tro hoc phi:
+        question:
+        - "Trường Đại học Đông Á có hỗ trợ học phí cho sinh viên nghèo không?"
+        - "Hỗ trợ học phí"
+        answer:
+        - "Trường Đại học Đông Á có chính sách hỗ trợ học phí cho sinh viên có hoàn cảnh khó khăn. Sinh viên có thể nộp đơn xin hỗ trợ học phí trong thời gian quy định để được hưởng chính sách này."
+
+    hoat dong ngoai khoa:
+        question:
+        - "Sinh viên tại trường Đại học Đông Á có thể tham gia các hoạt động ngoại khóa như thể thao hay âm nhạc không?"
+        - "Hoạt động ngoại khóa"
+        answer:
+        - "Được biết đến là một trong những trường đại học có chất lượng giảng dạy tốt cũng như sự phát triển toàn diện cho sinh viên, trường Đại học Đông Á cũng có nhiều hoạt động ngoại khóa cho sinh viên tham gia, bao gồm các hoạt động thể thao, văn hóa, giải trí và các hoạt động tình nguyện."
+
+    hoc bong:
+        question:
+        - "Học bổng"
+        - "Trường Đại học Đông Á có chương trình học bổng cho sinh viên xuất sắc không?"
+        answer:
+        - "Trường Đại học Đông Á có chương trình học bổng cho sinh viên xuất sắc với nhiều hình thức khác nhau như học bổng chính phủ, học bổng từ các tổ chức nước ngoài, học bổng từ các doanh nghiệp và học bổng từ trường."
+
+    Thoi diem tuyen sinh:
+        question:
+        - "Thời điểm tuyển sinh"
+        - "Khi nào là thời điểm tuyển sinh của trường Đại học Đông Á?"
+        answer:
+        - "Thời điểm tuyển sinh của trường Đại học Đông Á thường diễn ra từ tháng 6 đến tháng 8 hàng năm. Các thông tin chi tiết về thời gian tuyển sinh sẽ được công bố trên trang web chính thức của trường."
+
+    chương trình đào tạo thạc sĩ và tiến sĩ:
+        question:
+        - "chương trình đào tạo thạc sĩ và tiến sĩ"
+        - "Trường Đại học Đông Á có chương trình đào tạo thạc sĩ và tiến sĩ không?"
+        answer:
+        - "Trường Đại học Đông Á có chương trình đào tạo thạc sĩ và tiến sĩ với nhiều ngành đào tạo khác nhau. Các sinh viên quan tâm đến chương trình này có thể tìm hiểu thêm thông tin trên trang web chính thức của trường."
+
+    tìm kiếm việc làm sau khi tốt nghiệp:
+        question:
+        - "tìm kiếm việc làm sau khi tốt nghiệp "
+        - "Trường Đại học Đông Á có hỗ trợ cho sinh viên khi tìm kiếm việc làm sau khi tốt nghiệp không?"
+        answer:
+        - "Trường Đại học Đông Á có chính sách hỗ trợ cho sinh viên tìm kiếm việc làm sau khi tốt nghiệp. Trường cung cấp các thông tin về việc làm và hướng dẫn sinh viên trong quá trình tìm kiếm việc làm."
+
+    chương trình trao đổi sinh viên:
+        question:
+        - "chương trình trao đổi sinh viên "
+        - "Trường Đại học Đông Á có chương trình trao đổi sinh viên với các trường đại học khác không?"
+        answer:
+        - "Trường Đại học Đông Á có chương trình trao đổi sinh viên với nhiều trường đại học khác trên thế giới. Sinh viên có thể tham gia các chương trình này để có cơ hội trải nghiệm và học tập tại các quốc gia khác."
+
+    Trang thiết bị công nghệ:
+        question:
+        - "Trang thiết bị"
+        - "Trường Đại học Đông Á có trang bị thiết bị và công nghệ hiện đại để giảng dạy không?"
+        answer:
+        - "Trường Đại học Đông Á luôn đầu tư và cập nhật thiết bị và công nghệ hiện đại để giảng dạy. Sinh viên có cơ hội sử dụng các thiết bị và công nghệ mới nhất trong quá trình học tập tại trường."
+
+    Chương trình học ngoại ngữ:
+        question:
+        - "Trường Đại học Đông Á có chương trình học song ngữ không?"
+        - "Chương trình học ngoại ngữ"
+        answer:
+        - "Trường Đại học Đông Á có chương trình học song ngữ với nhiều ngành đào tạo khác nhau. Sinh viên có thể học các môn học bằng tiếng Anh để nâng cao kỹ năng"
+
+    Nngành:
+        question:
+        - "Ngành"
+        - "Tôi có thể chọn ngành nào khi tôi đã đăng ký chuyên ngành của mình?"
+        answer:
+        - "Bạn có thể chọn ngành phù hợp với chuyên ngành của mình. Tuy nhiên, để đảm bảo tính chuyên nghiệp và đáp ứng yêu cầu của thị trường lao động, bạn nên lựa chọn tổ hợp ngành hỗ trợ tốt cho chuyên ngành của mình."
+
+    Đăng kí nhiều chuyên ngành cùng 1 ngành:
+        question:
+        - "Tôi có thể đăng ký nhiều chuyên ngành trong cùng một ngành không?"
+        answer:
+        - "Bạn có thể đăng ký nhiều chuyên ngành trong cùng một ngành. Tuy nhiên, bạn cần đảm bảo rằng các chuyên ngành này phù hợp với nhau và sẽ giúp bạn phát triển kỹ năng và kiến thức chuyên môn của mình."
+
+    Chọn tổ hợp ngành:
+        question:
+        - "Tôi không biết chọn ngành nào, tôi nên làm gì?"
+        answer:
+        - "Nếu bạn không biết chọn ngành nào, bạn nên tìm hiểu kỹ về các ngành và đánh giá khả năng và sở thích của mình. Bạn có thể tham khảo thông tin tuyển sinh trên trang web chính thức của trường, hoặc tham gia các buổi tư vấn tuyển sinh để được tư vấn chi tiết hơn."
+    
+    Chuyển ngành:
+        question:
+        - "Tôi có thể chuyển từ ngành này sang ngành khác sau khi đã đăng ký không?"
+        answer:
+        - "bạn có thể chuyển từ tổ hợp ngành này sang tổ hợp ngành khác sau khi đã đăng ký."
+
+    Hình thức tuyển sinh:
+        question:
+        - "Trường Đại học Đông Á tuyển sinh bằng hình thức nào?"
+        - "Hình thức tuyển sinh"
+        answer:
+        - "Trường Đại học Đông Á tuyển sinh bằng hình thức xét tuyển dựa trên kết quả học tập và kỳ thi đánh giá năng lực đầu vào của thí sinh."
+
+    Thời gian đăng ký dự thi tuyển sinh:
+        question:
+        - "Thời gian đăng ký dự thi tuyển sinh"
+        - "Khi nào là thời gian đăng ký dự thi tuyển sinh của trường Đại học Đông Á?"
+        answer:
+        - "Thời gian đăng ký dự thi tuyển sinh của trường Đại học Đông Á sẽ được thông báo trên trang web chính thức của trường trước khi kỳ thi diễn ra. Thông thường, thời gian đăng ký đối với kỳ thi tuyển sinh vào các chương trình đại học chính quy sẽ diễn ra trong khoảng từ tháng 5 đến tháng 7 hàng năm." 
+
+    Hình thức đăng ký dự thi tuyển sinh:
+        question:
+        - "Tôi có thể đăng ký tuyển sinh trực tuyến hay không?"
+        - "Hình thức đăng ký dự thi tuyển sinh"
+        answer:
+        - "Bạn có thể nộp hồ sơ tuyển sinh trực tiếp tại trường Đại học Đông Á. Bạn nên đến trường vào giờ làm việc trong ngày để nộp hồ sơ và được hướng dẫn thủ tục tuyển sinh"    
+
+    Kỳ thi đánh giá năng lực đầu và:
+        question:
+        - "Kỳ thi đánh giá năng lực đầu và"
+        - "Kỳ thi đánh giá năng lực đầu vào của trường Đại học Đông Á bao gồm những môn nào?"
+        answer:
+        - "Kỳ thi đánh giá năng lực đầu vào của trường Đại học Đông Á bao gồm các môn Toán, Văn học, Ngoại ngữ và Khoa học tự nhiên. Thí sinh sẽ phải thi các môn này để đánh giá năng lực của mình."  
+
+    Xem lại kết quả kỳ thi đánh giá năng lực đầu vào :
+        question:
+        - "Xem lại kết quả kỳ thi đánh giá năng lực đầu vào "
+        - "Tôi có thể xem lại kết quả kỳ thi đánh giá năng lực đầu vào của mình không?"
+        answer:
+        - "Bạn có thể xem lại kết quả kỳ thi đánh giá năng lực đầu vào của mình. Kết quả này sẽ được công bố trên trang web chính thức của trường trong thời gian ngắn sau khi kỳ thi diễn ra."  
+
+    Làm gì sau khi tốt nghiệp đại học:
+        question:
+        - "Làm gì sau khi tốt nghiệp đại học"
+        answer:
+        - "Sau khi tốt nghiệp đại học, bạn có thể tìm kiếm việc làm trong lĩnh vực của mình hoặc tiếp tục học lên cao hơn như thạc sĩ hoặc tiến sĩ."  
+        - "Đại học Đông Á cung cấp cho sinh viên những kiến thức và kỹ năng cần thiết để tìm được việc làm tốt sau khi tốt nghiệp."
+
+    Dối tác với các công ty nào:
+        question:
+        - "Đối tác với các công ty nào"
+        - "Trường Đại học Đông Á có đối tác với các công ty nào?"
+        answer:
+        - "Đại học Đông Á có đối tác với nhiều công ty trong và ngoài nước như Samsung, LG, CJ, Lotte, Vingroup, FPT, Viettel, và nhiều hơn nữa."  
+
+    Tìm hiểu về các cơ hội việc làm :
+        question:
+        - "Tìm hiểu về các cơ hội việc làm "
+        - "Làm thế nào để tìm hiểu về các cơ hội việc làm và đối tác của Đại học Đông Á?"
+        answer:
+        - "Bạn có thể truy cập trang web của Đại học Đông Á hoặc liên hệ với phòng Công tác sinh viên để tìm hiểu về các cơ hội việc làm và đối tác của trường."  
+        
+    Ngành nghề triển vọng:
+        question:
+        - "Ngành nghề đang triển vọng"
+        - "Có những ngành nghề nào đang có triển vọng tại Đại học Đông Á?"
+        answer:
+        - "Đại học Đông Á có nhiều ngành đang có triển vọng như Công nghệ Thông tin, Khoa học Dữ liệu, Quản trị Kinh doanh, Kiến trúc và Thiết kế, và nhiều hơn nữa."  
